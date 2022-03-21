@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299550915573",
+    "project_id": "finance-help-82919",
+    "storage_bucket": "finance-help-82919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299550915573:android:08948c2bdf1f34d9327ebc",
+        "android_client_info": {
+          "package_name": "com.example.financehelpleo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299550915573-bv9uptlkaakt4cu74ktc9h95hmnb52v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCSUGqAXuAN24Upyuid-si1cQxVQza_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299550915573-bv9uptlkaakt4cu74ktc9h95hmnb52v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
